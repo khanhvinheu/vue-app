@@ -1,0 +1,1 @@
+import{S as t}from"./SocialLogin.ec9ff9ba.js";import{_ as e,o,c as n,a}from"./index.b34c9a81.js";const r={data(){return{}},components:{SocialLogin:t},methods:{},created(){},mounted(){}},s=a("h1",null,"T\xEDnh n\u0103ng \u0111ang ph\xE1t tri\u1EC3n",-1),c=[s];function _(d,i,p,l,m,u){return o(),n("div",null,c)}var $=e(r,[["render",_]]);export{$ as default};
